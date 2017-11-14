@@ -9,14 +9,14 @@ Compatible with Pocketmine Servers - ALPHA 8
 
 There is currently no commands. Use the config files to change your JoinChat message.
 
-#TODO
+# TODO
 
 Configurable Message
 
-#Donate
+# Donate
 
 Donate to me if possible! paypal.me/shavinda/5
 
-#First Plugin
+# First Plugin
 
-$Please don't be hard on me. It's my first plugin learned by @FreakingDev.
+Please don't be hard on me. It's my first plugin learned by @FreakingDev.
