@@ -12,6 +12,8 @@ There is currently no commands. Use the config files to change your JoinChat mes
 # TODO
 
 Configurable Message
+Adding Color
+Adding Player Names {Display_Name}
 
 # Donate
 
